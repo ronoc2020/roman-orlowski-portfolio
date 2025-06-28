@@ -1,0 +1,65 @@
+# Roman Orłowski - Cybersecurity Portfolio
+
+![Portfolio Screenshot](assets/images/screenshot.png)
+
+A futuristic, interactive portfolio website for Roman Orłowski, showcasing cybersecurity expertise with a Total Recall-inspired 3D interface.
+
+## Features
+
+- Interactive 3D background with floating cyber elements
+- Particle.js animated particles
+- Interactive terminal with simulated Kali Linux commands
+- Responsive design for all devices
+- Animated sections with scroll effects
+- Total Recall-inspired visual elements
+
+## Technologies Used
+
+- HTML5, CSS3, JavaScript
+- Three.js for 3D elements
+- particles.js for animated background
+- Font Awesome for icons
+- Animate.css for animations
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/roman-orlowski-portfolio.git
+
+    Open index.html in your browser.
+
+Customization
+
+To customize the content:
+
+    Update personal information in index.html
+
+    Modify skills in js/main.js (skillsData array)
+
+    Update experience timeline in js/main.js (timelineData array)
+
+    Add/remove terminal commands in js/terminal.js
+
+License
+
+This project is licensed under the MIT License.
+text
+
+
+This structure provides:
+1. A modular approach with separated concerns (HTML, CSS, JS)
+2. Added 3D elements inspired by Total Recall using Three.js
+3. Interactive terminal with more commands
+4. Better organization for GitHub
+5. Responsive design
+6. Animated elements and transitions
+7. README file for documentation
+
+The 3D elements include:
+- Floating cyber orbs with wireframe appearance
+- A central pulsing core
+- Interactive grid floor
+- Auto-rotation and hover effects
+
+The design maintains the cyberpunk aesthetic while adding the futuristic 3D elements reminiscent of Total Recall's visual style.
